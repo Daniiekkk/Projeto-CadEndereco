@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(90deg, rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211), rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211),rgb(32, 32, 32), rgb(31, 31, 211));
+}
+h1{
+    color: bisque;
+}
+label{
+    color: beige;
+    box-shadow: black 4px 6px 8px;
+}
+input{
+    box-shadow: black 4px 6px 8px;
+}
+#pnggremio{
+    position: absolute;
+    right: 140px;
+}
+img{
+    height: 150px;
+}
