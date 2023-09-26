@@ -2,7 +2,7 @@
 //Consumindo API de CEP, do ViaCep
 // https://viacep.com.br/
 
-//Limpa o Form (do CEP pra baixo)...
+//Limpa o Form (do CEP pra baixo)..
 const limparFormulario = (endereco) =>{
     document.getElementById('rua').value = '';
     document.getElementById('bairro').value = '';
@@ -10,7 +10,7 @@ const limparFormulario = (endereco) =>{
     document.getElementById('estado').value = '';
 }
 
-//Preenche os campos relacionados ao CEP...
+//Preenche os campos relacionados ao CEP..
 const preencherForumulario = (endereco) =>{
     document.getElementById('rua').value = endereco.logradouro;
     document.getElementById('bairro').value = endereco.bairro;
