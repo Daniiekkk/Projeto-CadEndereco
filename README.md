@@ -40,4 +40,3 @@
 ## Autores
 * Daniiekkk
 * [Voltar para o Índice](#%C3%ADndice)
->>>>>>> 13cf5efa12877fbd38bea0690d7500a69c628d3e
